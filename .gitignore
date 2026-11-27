@@ -1,0 +1,11 @@
+.venv/
+.tools/
+.runtime/
+__pycache__/
+*.py[cod]
+.DS_Store
+models/
+*.jpg
+*.jpeg
+*.png
+*.webp
